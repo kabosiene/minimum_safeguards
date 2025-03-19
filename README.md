@@ -1,1 +1,1 @@
-# minimum_safeguards.github.io
+Landing page for minimum-safeguards
