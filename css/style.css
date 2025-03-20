@@ -110,4 +110,7 @@ form {
     .subtitle {
         font-size: 20px;
     }
+    .left-side, .right-side {
+        padding: 0;
+    }
 }
